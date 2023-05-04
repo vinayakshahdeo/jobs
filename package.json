@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/vinayakshahdeo/jobs#readme",
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
